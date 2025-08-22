@@ -28,7 +28,7 @@ console.log("area of circle is:"+area);
 
 
 
-let age=17;
+var age =17;
 if(age>=18){
     console.log("eligible to vote");
 }else{
