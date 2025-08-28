@@ -3,4 +3,3 @@ function positive(arr){
 }
 console.log(positive([1,2,3]));
 console.log(positive([1,-2,-3]));
-console.log();
