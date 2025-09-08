@@ -3,9 +3,9 @@ function mycounter(){
     return function (){
     counter++;
     return counter;
-};
+}
 }
 let add= mycounter();
-add();
-add();
 console.log(add());
+console.log(add());
+console.log(add()); //
